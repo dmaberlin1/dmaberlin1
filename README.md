@@ -7,6 +7,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,js,vite,nodejs,nextjs,nestjs,mysql,mongodb,docker,firebase,bash,linux&theme=dark&perline=13" />
+    <img src="https://skillicons.dev/icons?i=redux,js,vite,nodejs,nextjs,nestjs,linux,mysql,mongodb,docker,firebase,bash,&theme=dark&perline=13" />
   </a>
 </p>
